@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "National Institute for Theoretical and Computational Sciences Software Carpentry Workshop - 2-6 May 2022"
+title: "NITheCS Software Carpentry Workshop - 3-6 May 2022"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
